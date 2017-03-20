@@ -10,3 +10,6 @@ NAME=CoherentUI_Host TYPE=GAME       # PA UI
 
 NAME=Sam3            TYPE=GAME       # http://store.steampowered.com/app/41070
 NAME=StarConflict    TYPE=GAME       # http://store.steampowered.com/app/212070
+
+NAME=ns2_linux32     TYPE=GAME       # http://store.steampowered.com/app/4920/
+NAME=RocketLeague    TYPE=GAME       # http://store.steampowered.com/app/252950/
